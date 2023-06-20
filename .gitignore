@@ -1,0 +1,11 @@
+../.idea
+../.ipynb_checkpoints
+submission
+refined-dataset
+raw_predictions.json
+venv
+otto-recommender-system.zip
+sample_submission.csv
+test.jsonl
+train.jsonl
+kaggle.json
