@@ -3,6 +3,9 @@
 submission
 refined-dataset
 raw_predictions.json
+raw-carts-predictions.json
+raw-clicks-predictions.json
+raw-orders-predictions.json
 venv
 otto-recommender-system.zip
 sample_submission.csv
